@@ -1,5 +1,6 @@
 # Coursera_Capstone
 Introduction//Business Problem:
+
 This Capstone Project is mainly concerned to help people in exploring better amenities around their neighborhood. It will assist people in smart and efficient decision making on selecting neighborhood in Scarborough, Toronto. 
 People who are looking for better places to live in and want to have easy access to transportation, schools, colleges, supermarket, medical shops, hospitals, grocery, fitness centers, theater, amusement park and society of people belonging to same group. 
 Every year lots of people are migrating to various states of Canada. So, they need lot of research for good housing prices and good school for their children. 
